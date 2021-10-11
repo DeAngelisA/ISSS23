@@ -8,7 +8,7 @@ Office hour: Thu 9:00—10:00
   
 TA: Camille Leyrer  
 Email: [camille.leyrer@stud.unilu.ch](mailto:camille.leyrer@stud.unilu.ch)  
-Office: [3.B01]  
+Office: 3.B05  
 Office hour: Mon 14:00—15:00  
   
   
