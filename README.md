@@ -6,13 +6,13 @@ Office hour: to be arranged over email
   
   
 TA: [TBA]
-Email: 
-Office:
-Office hour: 
-  
-  
-Lectures: Tue 08:15—10:00; classroom [TBA] 
-Reading material: refer to Perusall.com (the course code is on the OLAT page)  
+Email:   
+Office:   
+Office hour:   
+
+    
+Lectures: Tue 08:15—10:00; classroom [TBA]   
+Reading material: refer to Perusall.com (the course code is on the OLAT page)    
 
 ---
 
