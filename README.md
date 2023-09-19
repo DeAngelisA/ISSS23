@@ -4,9 +4,9 @@ Instructor: Dr Andrea De Angelis
 Email: [deangelis@ipz.uzh.ch](mailto:deangelis@ipz.uzh.ch) 
 Office hour: to be arranged over email  
     
-Lectures: Tue 08:15—10:00; classroom 3.B58
-Readings: on [Perusall](https://www.perusall.com) (get code on the slides of the first session or on OLAT)
-GitHub repository: [https://github.com/DeAngelisA/ISSS23](https://github.com/DeAngelisA/ISSS23)
+Lectures: Tue 08:15—10:00; classroom 3.B58  
+Readings: on [Perusall](https://www.perusall.com) (get code on the slides of the first session or on OLAT)  
+GitHub repository: [https://github.com/DeAngelisA/ISSS23](https://github.com/DeAngelisA/ISSS23)  
 
 ---
 
